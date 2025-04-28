@@ -1,0 +1,10 @@
+We want to build an educational project around this new model. All your old knowlege wont help us here pay close attention to the new data: 
+
+
+Link: https://huggingface.co/Qwen/Qwen3-235B-A22B
+
+We want to understand everything about this model, how it was trained, and how best to use it. 
+
+We want to make minimal code changes for now and exhaust all public, oficial demo cookbooks or repos before developing our own tools. 
+
+
