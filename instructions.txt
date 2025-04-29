@@ -8,3 +8,4 @@ We want to understand everything about this model, how it was trained, and how b
 We want to make minimal code changes for now and exhaust all public, oficial demo cookbooks or repos before developing our own tools. 
 
 
+We have an existing API key: sk-c392df140b804db7aa9cb514a3f75543 Alibaba Cloud Model Studio
